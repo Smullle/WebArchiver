@@ -7,5 +7,11 @@ Will download HTML of URL provided at runtime, will also parse html extract embe
   - Save main url and embeded urls as .html and produce lookup.json to reconstruct urls from normalised filenames.
   
 ![](images/screen1%20(1).png?raw=true)
+
+___
+
 ![](images/screen2%20(1).png?raw=true)
+
+___
+
 ![](images/screen4.png?raw=true)
